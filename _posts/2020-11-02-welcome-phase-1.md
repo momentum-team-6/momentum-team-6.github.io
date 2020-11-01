@@ -65,5 +65,5 @@ It should look similar to this, with a different number at the end: `https://git
 
 ### Notes & Video from class
 
-- [command line notes](https://github.com/momentum-team-5/notes/blob/main/command-line.md)
-- [git notes](https://github.com/momentum-team-5/notes/blob/main/git.md)
+- [command line notes](https://github.com/momentum-team-6/notes/blob/main/command-line.md)
+- [git notes](https://github.com/momentum-team-6/notes/blob/main/git.md)
