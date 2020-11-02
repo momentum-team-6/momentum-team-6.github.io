@@ -16,6 +16,8 @@ layout: default
   - Meeting ID: 880 1709 9254
   - Passcode: 095993
 - [Zoom co-working room](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) -- Our virtual shared space, open to students on all teams in every phase
+  - Meeting ID: 705 824 048
+  - Passcode: 573244
 
 ## GitHub
 
