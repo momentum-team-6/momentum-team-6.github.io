@@ -24,6 +24,7 @@ We are making time in our schedule for folks to vote, so we're not holding class
 3. Watch [Your Brain's API](https://youtu.be/hY14Er6JX2s), a talk given at Pycon 2015 by Sasha Laundy, about giving and getting technical help. This is a super helpful video to watch!!
 4. If you have not already completed the [Foundations Course](https://foundations.momentumlearn.com/), please do that! You'll get a review of the command line material and an intro to HTML and CSS, which we will begin formally tomorrow.
 5. IF YOU STILL HAVE TIME: check out the [notes for HTML](https://github.com/momentum-team-6/notes/blob/main/html.md), which we will cover in class tomorrow.
+6. 🚨 Don't forget the [Letter to Your Future Self](https://docs.google.com/forms/d/1AhHelZ9EZaa4YYRTlYUe9_FrcLrmdqXfATnll07Md70/viewform?edit_requested=true) that Dawn asked you all to write!
 
 ### No new project today -> ⭐ 🇺🇸 GO VOTE! 🇺🇸 ⭐
 
@@ -38,6 +39,17 @@ Today's resources are the same as yesterday's, so please dive in if you haven't 
 - [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git Command Explorer](https://gitexplorer.com/) -- this tool lets you look up commands by what you are trying to do
+
+### ⭐ EXTRA/TMI
+
+_This section is for information that you don't necessarily need today, so you can skip this for now (and save it somewhere for later!). But I will sometimes post extra details or interesting sidenotes for folks who want a deeper dive.🌊_
+
+
+We talked about the default branch in git being called `main`. Historically it has been `master` for no good reason; the name is arbitrary. The tech community has recently become more aware of how casual language choices can needlessly marginalize members of the community continually feel othered. This change is still in flux at this moment, but more and more repositories are switching over. If you are using git verion 2.28 or later, you can add a setting in your git config to use `main` as the name for the default branch in any repo you create locally.
+
+[This blog post from Scott Hanselman](https://www.hanselman.com/blog/easily-rename-your-git-default-branch-from-master-to-main) describes a bunch of how-tos around this.
+
+And [this README document from GitHub about the process of renaming your branches](https://github.com/github/renaming) discusses some of the technical considerations for doing this, and why this process has to be gradual in some cases.
 
 ### Notes & Video from class
 
