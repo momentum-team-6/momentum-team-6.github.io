@@ -45,7 +45,7 @@ Today's resources are the same as yesterday's, so please dive in if you haven't 
 _This section is for information that you don't necessarily need today, so you can skip this for now (and save it somewhere for later!). But I will sometimes post extra details or interesting sidenotes for folks who want a deeper dive.🌊_
 
 
-We talked about the default branch in git being called `main`. Historically it has been `master` for no good reason; the name is arbitrary. The tech community has recently become more aware of how casual language choices can needlessly marginalize members of the community continually feel othered. This change is still in flux at this moment, but more and more repositories are switching over. If you are using git verion 2.28 or later, you can add a setting in your git config to use `main` as the name for the default branch in any repo you create locally.
+We talked about the default branch in git being called `main`. Historically it has been `master` for no good reason; the name of any branch is arbitrary. The tech community has recently become more willing to make changes to be more inclusive in our language and the way we work together. This change is still in flux at this moment, but more and more repositories are switching over. If you are using git verion 2.28 or later, you can add a setting in your git config to use `main` as the name for the default branch in any repo you create locally.
 
 [This blog post from Scott Hanselman](https://www.hanselman.com/blog/easily-rename-your-git-default-branch-from-master-to-main) describes a bunch of how-tos around this.
 
@@ -55,3 +55,5 @@ And [this README document from GitHub about the process of renaming your branche
 
 - [command line notes](https://github.com/momentum-team-6/notes/blob/main/command-line.md)
 - [git notes](https://github.com/momentum-team-6/notes/blob/main/git.md)
+- [Morning video](https://us02web.zoom.us/rec/share/pWJ9uPCoc3rGb_USw2B1ui9KyxggB5D8wEJKEd_GVGi-8cUx-hQ6xfPN41RrCHyW.K_jFwU5jmmqlnrtP) Access Passcode: 15\*&ExoD
+- _No afternoon class, so no afternoon video today_

@@ -67,3 +67,5 @@ It should look similar to this, with a different number at the end: `https://git
 
 - [command line notes](https://github.com/momentum-team-6/notes/blob/main/command-line.md)
 - [git notes](https://github.com/momentum-team-6/notes/blob/main/git.md)
+- [Morning video](https://us02web.zoom.us/rec/share/9xFsna1lVPa8jav15ad1vCXB-hrxvOPvpjEm5vrbX28kGX1HDPIaRpedfNaGV_d-.0u8oV85F34NUdz9I) Access Passcode: 6W6W^51H
+- [Afternoon video](https://us02web.zoom.us/rec/share/5tQmj4xD-548BdzWvrBpJ9m_gZWSOtpGoXNmhBP7LR_SfB4b6BzhPjzLvc_r2bkK.0rVGyp8nKb8KMSta) Access Passcode: 0A8%3&Pi
