@@ -30,3 +30,4 @@ layout: default
 
 - [Foundations Course](https://foundations.momentumlearn.com/)
 - [Course outline & info]({% link course-outline.md %})
+- [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
