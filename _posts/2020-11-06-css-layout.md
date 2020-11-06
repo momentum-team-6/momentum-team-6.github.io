@@ -41,4 +41,6 @@ Before we had flexbox or grid built into CSS, we relied on floats for layout. Yo
 - [Simple float example](https://codepen.io/amygori/pen/qVwVjX)
 - [CSS-Tricks All About Floats](https://css-tricks.com/all-about-floats/)
 
-## 🦉 Code & Videos
+## 🦉 Code, Notes & Videos
+
+- [Notes on CSS Layout](https://github.com/momentum-team-6/notes/blob/main/css-layout.md)
