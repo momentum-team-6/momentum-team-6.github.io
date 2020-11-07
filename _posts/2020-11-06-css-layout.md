@@ -54,3 +54,6 @@ Before we had flexbox or grid built into CSS, we relied on floats for layout. Yo
 ## 🦉 Code, Notes & Videos
 
 - [Notes on CSS Layout](https://github.com/momentum-team-6/notes/blob/main/css-layout.md)
+- [Garden Store site with css example](https://github.com/momentum-team-6/examples/tree/main/garden-store-css)
+- [Flexbox example](https://github.com/momentum-team-6/examples/tree/main/css-flexbox)
+- [Afternoon class video](https://us02web.zoom.us/rec/share/JeU2gQg0QUdxTLeVIcG1T-T3bDpiKGJmpSsT7IEuh8pObQjdK45Zoct7_NkyI6Ie.MHGlF6LfQJFbUa0o) Passcode: C9j+V=9R
