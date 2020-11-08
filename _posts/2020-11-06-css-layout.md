@@ -13,6 +13,16 @@ tags: phase-1 css layout responsive flexbox
 
 Continue working on your dog adoption website assignment, which is due Monday morning.
 
+### Optional assignment: build a portfolio
+
+If you finish the dog adoption site and want to forge ahead, check this one out:
+
+[Build a portfolio](https://classroom.github.com/a/rwCMQ44J)
+
+This assignment requires you to use CSS techniques to adapt your layout to smaller screen sizes. If you're using flexbox that gets much easier, but you'll also need other responsive web design strategies like _media queries_.
+
+Check your CSS layout notes about repsonsive design, and check out the resources listed below.
+
 ## 🔖 Resources
 
 ### Flexbox
@@ -29,6 +39,20 @@ Continue working on your dog adoption website assignment, which is due Monday mo
 - [CSS-Tricks Guide to Centering Things](https://css-tricks.com/centering-css-complete-guide/)
 - [CSS-Tricks Tinted Images with Multiple Backgrounds](https://css-tricks.com/tinted-images-multiple-backgrounds/)
 - [MDN: Use CSS to solve common problems](https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto)
+
+### Responsive CSS
+
+- [MDN Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- [How to use media queries alongside Grid and Flexbox](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
+
+#### Design
+
+- [10 Cheat Codes for designing user interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
+- [7 Rules for Creating Gorgeous UIs](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
+- [7 Rules Part Two](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html#rule-4-learn-the-methods-of-overlaying-text-on-images)
+- [Practical Color Theory for People Who Code](https://tallys.github.io/color-theory/)
+- [Typography for Developers](https://css-tricks.com/typography-for-developers/)
+
 
 ### ⭐️ EXTRA/TMI
 
