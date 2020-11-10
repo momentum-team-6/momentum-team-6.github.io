@@ -31,4 +31,5 @@ tags: phase-1 javascript js arrays
 ## 🦉 Code, Notes & Video
 
 - [JavaScript Arrays notes](https://github.com/momentum-team-6/notes/blob/main/js-arrays.md)
-- [Morning video]() _still processing on Zoom_
+- [Morning video](https://us02web.zoom.us/rec/share/6AQoak-lz7bZ1c7Abs_C41-2xRH2Yzn7lq4fxE9k15PmqEIsp-kEbLi9JFqKfNDb.XFRjpkF4BUQhMY5O) Passcode: 54G6j^b2
+- [Afternoon video](https://us02web.zoom.us/rec/share/yP2fRWHmMerJ-eJ1qKlCXe_0DfCT-tXr0GzNK7QcgELEFIAzaptTrlocnNlxUifk.LjTvaN5G2yHLU16c) Passcode: cDu#1nN!
