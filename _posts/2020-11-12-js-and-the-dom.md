@@ -37,10 +37,17 @@ And here is more info about what is happening when a browser renders a page -- v
 - [About the browser rendering engine](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#The_rendering_engine)
 - [How browser rendering works](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10/)
 
+This is a good explanation about how JS events "bubble" up the chain of elements on the page:
+
+- [JS Event Bubbling and Capturing](- [Event Bubbling](https://javascript.info/bubbling-and-capturing)
+
 If you would like to know more about the JavaScript Event Loop and how it works, I highly recommend this resource. Don't miss the video of the conference talk that goes along with it -- it's excellent:
 
 - [Loupe: Visualizing the JS Event Loop](http://latentflip.com/loupe)
 
 ## 🦉 Code, Notes & Video
 
-- [JS and the DOM notes](https://github.com/momentum-team6/notes/blob/main/js-and-the-dom.md)
+- [JS and the DOM notes](https://github.com/momentum-team-6/notes/blob/main/js-and-the-dom.md)
+- [Code from class](https://github.com/momentum-team-6/examples/tree/main/js-dom-manipulation)
+- [Morning video](https://us02web.zoom.us/rec/share/TIG_OHDC1pOHtQVu0K4JxmgS3HcvXk4C1Zik0Dj8itR3XqkjGrxKta_27gUs331Z.yLejWAznA0HLMFVv) Passcode: Th#e^gt1
+- [Afternoon video](https://us02web.zoom.us/rec/share/IZLVsbJamft8HuBbE8yv9LYatXKaTd08Rtfhutw29Pz7DYee2V3aChzv10x1sQvB.Ce64RhIlDeJm4Cmu) Passcode: +0ZQnjy+
