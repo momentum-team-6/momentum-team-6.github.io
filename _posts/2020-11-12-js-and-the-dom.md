@@ -39,7 +39,7 @@ And here is more info about what is happening when a browser renders a page -- v
 
 This is a good explanation about how JS events "bubble" up the chain of elements on the page:
 
-- [JS Event Bubbling and Capturing](- [Event Bubbling](https://javascript.info/bubbling-and-capturing)
+- [JS Event Bubbling and Capturing](https://javascript.info/bubbling-and-capturing)
 
 If you would like to know more about the JavaScript Event Loop and how it works, I highly recommend this resource. Don't miss the video of the conference talk that goes along with it -- it's excellent:
 
