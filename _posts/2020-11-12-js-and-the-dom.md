@@ -43,4 +43,4 @@ If you would like to know more about the JavaScript Event Loop and how it works,
 
 ## 🦉 Code, Notes & Video
 
-- [JS and the DOM notes](https://github.com/momentum-team-5/notes/blob/main/js-and-the-dom.md)
+- [JS and the DOM notes](https://github.com/momentum-team6/notes/blob/main/js-and-the-dom.md)
