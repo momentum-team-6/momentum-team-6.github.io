@@ -29,3 +29,4 @@ tags: phase-1 javascript js objects
 ## 🦉 Code, Notes & Videos
 
 - [notes on js objects](https://github.com/momentum-team-6/notes/blob/main/js-objects.md)
+- [Acme restaurant code example using object data](https://github.com/momentum-team-6/examples/tree/main/using-object-data)
