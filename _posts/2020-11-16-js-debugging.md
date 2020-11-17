@@ -31,6 +31,7 @@ There's an awesome article about _stacks_, which we encounter in a _stack trace_
 
 - [BaseCS: Stacks and Overflows](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67)
 
+🤓 Nerd humor: [Gary Bernhardt's WAT talk](https://www.destroyallsoftware.com/talks/wat)
 ### Code, slides, and video from class
 
 - [notes on debugging in JS](https://github.com/momentum-team-6/notes/blob/main/debugging.md)
