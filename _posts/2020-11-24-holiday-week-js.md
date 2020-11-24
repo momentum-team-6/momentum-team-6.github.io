@@ -20,7 +20,10 @@ Build a classic memory-style game for the browser. Choose this one if you want m
 
 ### GitHub Profile
 
-Build a simple page using data from the GitHub API. Choose this one if you want more practice with getting data from APIs and showing that data on the page by interacting with the DOM.
+Build a simple page using data from the GitHub API. Choose this one if you want more practice with getting data from APIs and showing that data on the page by interacting with the DOM.sl`
 
 [Assignment invitation](https://classroom.github.com/a/SKqAaYrM)
 
+## 🦉 Code & Video
+
+- [repl.it with review of map, filter, and arrow functions](https://repl.it/@amy_nc/JS-Review-Map-Filter-and-Arrow-Functions)
