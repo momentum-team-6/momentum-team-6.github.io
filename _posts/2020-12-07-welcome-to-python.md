@@ -11,7 +11,7 @@ Welcome to Back End Development, where we'll be learning about:
 - Databases
 - Deploying Django applications
 
-## Today's topics
+## 📅 Today's topics
 
 - Running Python
 - Syntax differences between JS and Python
@@ -22,18 +22,18 @@ Welcome to Back End Development, where we'll be learning about:
   - Input and output with `input` and `print`
   - Functions
 
-### Project
+### 🎯  Project
 
 [House Hunting With Python](https://classroom.github.com/a/EEvn4Ih3)
 
-### Resources
+### 🔖 Resources
 
 * [Beginner Tips for Learning Python](https://realpython.com/python-beginner-tips/)
 * [Python notebooks](https://github.com/momentum-team-6/examples/tree/main/python/intro-notebooks)
 * [A Byte of Python](https://python.swaroopch.com/)
 * [Official Python docs](https://docs.python.org/3/)
 
-### Code, Slides, and Video from Class
+### 📹 Code, Slides, and Video from Class
 
 * [Slides](/slide-decks/intro-python.pdf)
 * [Morning Class Recording](https://us02web.zoom.us/rec/share/4aFTnO83LBCN2w5bvCxEZhP-80vS0CK904VZEohDepKeAhkgGXyBTQvgrNymr1xQ.nijZ3rkZDz-O9021) Passcode: kT.77Bg# 
