@@ -35,6 +35,6 @@ Welcome to Back End Development, where we'll be learning about:
 
 ### 📹 Code, Slides, and Video from Class
 
-* [Slides](/slide-decks/intro-python.pdf)
+* [Slides](https://docs.google.com/presentation/d/1vEYht39SEOmW-gUuQyAmX5N91X8Z0KCENnmVUkSj63o/edit?usp=sharing)
 * [Morning Class Recording](https://us02web.zoom.us/rec/share/4aFTnO83LBCN2w5bvCxEZhP-80vS0CK904VZEohDepKeAhkgGXyBTQvgrNymr1xQ.nijZ3rkZDz-O9021) Passcode: kT.77Bg# 
 * [Afternoon Class Recording](https://us02web.zoom.us/rec/share/MesPHKlTvJ8s_GP9vuDF7l3rl9PzmzM8DT71OLQ-VJWa28yDtOsekGhTbCk4pWeI.BRwVcxxQ5ck1PScX) Passcode: 6Qk.RRK$ 
