@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🐍 OO Programming in Python 🐍
+title: 🐴 Intro to Django 🐴 
 tags: phase-2 python
 ---
 

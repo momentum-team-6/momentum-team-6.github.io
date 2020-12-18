@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🐍 OO Programming in Python 🐍
+title: 🐍 Classes in Python 🐍
 tags: phase-2 python
 ---
 
