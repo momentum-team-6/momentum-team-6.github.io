@@ -13,7 +13,7 @@ tags: phase-2 python
 
 ### 🎯  Project
 
-- 
+- [Django Notes](https://classroom.github.com/a/Cvw9MLcs)
 
 ### 🔖 Resources
 
