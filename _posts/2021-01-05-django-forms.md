@@ -26,6 +26,7 @@ tags: phase-2 python
 
 ### ⭐️ EXTRA/TMI
 * [Django Docs Forms](https://docs.djangoproject.com/en/3.1/ref/forms/api/)
+* [Databases](https://www.oracle.com/database/what-is-database/)
 
 
 ### 📹 Code, Slides, and Video from Class
