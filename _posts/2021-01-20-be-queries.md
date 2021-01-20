@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BE - Advanced queries
-tags: phase-3 phase-3-be javascript
+tags: phase-3 phase-3-be
 ---
 
 Today we're going to talk about:
