@@ -30,12 +30,13 @@ Talk with your team about project ideas. Come prepared tomorrow with one really 
 
 ## Slides
 
-- [Phase Overview](https://drive.google.com/file/d/14y0MVG1eXjvD15AkP8ISQROeT_atxPIP/view?usp=sharing)
+- [Phase Overview](https://drive.google.com/file/d/1R7z02t8EXOlFgAkOVDYI4_ZrBEI3Dh_R/view?usp=sharing)
 - [Agile Development](https://drive.google.com/file/d/11FdKfcBitBjs7R6Tqkug7oTn9NWdCltQ/view?usp=sharing)
-- [Coming up with your product idea](https://drive.google.com/file/d/1vLEOotRpy3s_scOP6hLOwntxkzZp__on/view?usp=sharing)
+- [Coming up with your idea](https://drive.google.com/file/d/1vLEOotRpy3s_scOP6hLOwntxkzZp__on/view?usp=sharing)
 
 ### References
 
 - [Beginner's Guide to Scrum and Agile](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 - [12 principles from the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 - [Command Line Heroes Podcast](https://www.redhat.com/en/command-line-heroes) Produced by RedHat and hosted by Saron Yitbarek, this is a scripted podcast that tells the story of software from the last 40-ish years or so. Season 1 has an episode of the origin of Agile Development. The whole series is really well done. If you enjoy understanding the history of things like I do, you will like this podcast!
+- [What is Code? by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Read this for the stakeholder perspective -- really long but really well written and produced!
