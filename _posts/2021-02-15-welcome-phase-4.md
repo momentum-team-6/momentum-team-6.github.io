@@ -38,5 +38,6 @@ Talk with your team about project ideas. Come prepared tomorrow with one really 
 
 - [Beginner's Guide to Scrum and Agile](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 - [12 principles from the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
+- [The Power in Agile, a talk by Sarah Mei](https://www.youtube.com/watch?v=YL-6RCTywbc&feature=youtu.be) A critical look at the power dynamics implicit in Agile methods.
 - [Command Line Heroes Podcast](https://www.redhat.com/en/command-line-heroes) Produced by RedHat and hosted by Saron Yitbarek, this is a scripted podcast that tells the story of software from the last 40-ish years or so. Season 1 has an episode of the origin of Agile Development. The whole series is really well done. If you enjoy understanding the history of things like I do, you will like this podcast!
 - [What is Code? by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Read this for the stakeholder perspective -- really long but really well written and produced!
