@@ -13,7 +13,7 @@ layout: default
 
 ## Zoom
 
-- [Zoom classroom for Phase 3](https://us02web.zoom.us/j/89773940080?pwd=U0tmaGloZTNQWE1icVJkbUg5cWZQQT09)
+- [Zoom classroom for Phase 4](https://us02web.zoom.us/j/87136809846?pwd=VER0ejNkaWFUQURjQ0xRVTVVYlkrUT09)
 - [Zoom co-working room](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) -- Our virtual shared space, open to students on all teams in every phase
   - Meeting ID: 705 824 048
   - Passcode: 573244
