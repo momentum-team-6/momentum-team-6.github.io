@@ -24,3 +24,7 @@ Use these slides to guide your team discussions today. We'll go over them in cla
 - [Product Roadmap Slides](https://drive.google.com/file/d/19g0YwyHjPiFr9WAsiboc0ZgTmzfEAVGc/view?usp=sharing)
 - [Atlassian: Writing User Stories](https://www.atlassian.com/agile/project-management/user-stories)
 - [FreeCodeCamp: How and Why to Write User Stories](https://www.freecodecamp.org/news/how-and-why-to-write-great-user-stories-f5a110668246/)
+
+## 🔖 Resources
+
+- [Stack Overflow Podcast: Building a web app](https://stackoverflow.blog/2021/02/12/podcast-312-were-building-a-web-app-got-any-advice/)
