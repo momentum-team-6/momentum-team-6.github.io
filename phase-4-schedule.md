@@ -24,16 +24,16 @@ layout: default
 ### Wednesday March 10
 
 - Working on presentations all day today. ([Presentation Prep Guide]({% link phase-4-demo-guide.md %}))
+- **App blurb due** to Dawn @2:00 pm ([Google Drive link](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing))
 - **First Presentation Rehearsal** @2:00-3:00 pm (_first draft, no video expected_)
 
 ### Thursday March 11
 
 - **Public-speaking coaching for each team with Mr. Mitsch**
   - Your team's time TBD
-- **Second rehearsal with staff**
+- **Second rehearsal with staff** @1:00-2:00pm
   - All teams together
-  - 1-2 pm
-- **Final screencast video & app blurb due to Dawn** @2:00 pm ([Google Drive link](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing))
+- **Final screencast video due** to Dawn @3:00 pm ([Google Drive link](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing))
 - **Tech check & run-through** @3:15-4:00 pm (A Zoom link will be provided via email)
 
 ### Friday March 12
