@@ -30,9 +30,9 @@ layout: default
 
 - **Public-speaking coaching for each team with Mr. Mitsch**
   - Your team's time TBD
-- **Final rehearsal with staff**
+- **Second rehearsal with staff**
   - All teams together
-  - 11:30-12:30 pm
+  - 1-2 pm
 - **Final screencast video & app blurb due to Dawn** @2:00 pm ([Google Drive link](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing))
 - **Tech check & run-through** @3:15-4:00 pm (A Zoom link will be provided via email)
 
